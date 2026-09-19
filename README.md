@@ -1,4 +1,4 @@
-# Bhagyashri Agasar
+# Bhagya Agasar
 
 ### PhD Researcher | Artificial Intelligence | Computer Vision | Deep Learning
 
